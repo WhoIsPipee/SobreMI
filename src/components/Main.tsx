@@ -20,25 +20,30 @@ const projects = [
     title: "-🔥 CalorieFlow 🏋🏻‍♂️-",
     description:
       "CalorieFlow es un controlador de calorías integral que permite registrar tanto las consumidas como las quemadas. Con esta herramienta, puedes visualizar tu déficit calórico final, ya que recopila datos de actividades físicas y alimentación.",
-    link: "https://rad-cheesecake-3824af.netlify.app/",
+    link: "https://calorie-flow.netlify.app/",
   },
   {
     title: "-🖥️ Calculadora de propinas 💸-",
     description:
       "Esta página te permite calcular tu propina final con porcentajes del 10% al 50%, mostrando al instante el total a pagar. Actualmente es un modelo visual, pero próximamente se integrará una base de datos para guardar registros.",
-    link: "https://sweet-sawine-ddc246.netlify.app/",
+    link: "https://propinas-cal.netlify.app/",
+  },
+  {
+    title: "-🧑‍💻 Control de gastos 💸-",
+    description: "Diseñada precisamente para controlar los gastos. Puedes definir un presupuesto y categorizar todo tipo de gastos. Además, puedes filtrarlos, modificarlos y eliminarlos fácilmente. Cuida tu dinero y mantén un seguimiento claro de tus finanzas.",
+    link: "https://control-gast.netlify.app/",
   },
   {
     title: "-🧑‍💻 Excel VBA + Macros 👨‍👩‍👦‍👦-",
     description:
-      "Plantilla con macros y VBA para gestionar residentes en condominios privados: agregar, modificar y eliminar registros de forma eficiente.",
+      "Plantilla con macros y VBA para gestionar residentes en condominios privados: agregar, modificar y eliminar registros de forma eficiente. (Plantilla local / SIN LINK)",
     link: "#",
   },
   {
     icon: <FaUserShield className="text-pink-400 text-3xl" />,
     title: "Proyecto de título para Ingeniería en Informática (WORK IN PROGRESS)",
     description:
-      "Como equipo, estamos desarrollando un sistema de control de acceso biométrico para la gestión segura de identidades. Este proyecto servirá como nuestro trabajo final (Capstone) para obtener el título de Ingenieros en Informática.",
+      "Como equipo, estamos desarrollando un sistema de control de acceso biométrico para la gestión segura de identidades. Este proyecto servirá como nuestro trabajo final (Capstone) para obtener el título de Ingenieros en Informática. (SIN LINK)",
     link: "#",
   },
 ];
