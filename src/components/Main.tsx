@@ -34,6 +34,11 @@ const projects = [
     link: "https://control-gast.netlify.app/",
   },
   {
+    title: "-👨‍⚕️ Administrador de Pacientes ☑️-",
+    description: "Administrador de Pacientes, Su objetivo es facilitar el seguimiento de pacientes y la gestión de citas médicas, todo a través de una interfaz moderna, responsiva y minimalista. ",
+    link: "https://administrador-patients.netlify.app/",
+  },
+  {
     title: "-🧑‍💻 Excel VBA + Macros 👨‍👩‍👦‍👦-",
     description:
       "Plantilla con macros y VBA para gestionar residentes en condominios privados: agregar, modificar y eliminar registros de forma eficiente. (Plantilla local / SIN LINK)",
