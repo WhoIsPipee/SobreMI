@@ -38,6 +38,12 @@ const projects = [
     description: "Administrador de Pacientes, Su objetivo es facilitar el seguimiento de pacientes y la gestión de citas médicas, todo a través de una interfaz moderna, responsiva y minimalista. ",
     link: "https://administrador-patients.netlify.app/",
   },
+
+  {
+    title: "-🌎 ClimaGlobal 🌦️-",
+    description: " ClimaGlobal es una aplicación web desarrollada con React que permite consultar condiciones meteorológicas en tiempo real para cualquier ciudad o país, utilizando la API de OpenWeatherMap.",
+    link: "https://clima-api-k.netlify.app/",
+  },
   {
     title: "-🧑‍💻 Excel VBA + Macros 👨‍👩‍👦‍👦-",
     description:
