@@ -1,5 +1,5 @@
 import React from "react";
-import {  FaUserShield } from "react-icons/fa";
+import { FaUserShield } from "react-icons/fa";
 
 const technologies = [
   { name: "Git", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
@@ -69,10 +69,10 @@ const Main: React.FC = () => {
         <div className="space-y-6">
           <h2 className="text-3xl font-bold text-pink-400">Sobre mí</h2>
           <p className="text-lg text-gray-300 leading-relaxed">
-            Joven de 23 años apasionado por el diseño y la creatividad responsiva, interactiva y dinámica.
-            Esta pasión se refleja en mis diseños de plantillas frontend que desarrollo en mi tiempo libre.
-            Si quieres conocer mis trabajos con sus funcionalidades, te invito a explorar más abajo mis
-            proyectos finalizados y en progreso.
+            Joven de 23 años apasionado por el desarrollo FullStack y la gestión eficiente de proyectos de TI.
+            Mi experiencia abarca desde el diseño de interfaces dinámicas hasta la implementación de lógica backend, manejo de bases de datos y automatización de procesos con Excel.
+            En mi tiempo libre, desarrollo aplicaciones web completas (frontend + backend) y optimizo soluciones de almacenamiento y análisis de datos. Si quieres conocer mis proyectos
+            te invito a explorar más abajo.
           </p>
 
           {/* A qué me dedico */}
