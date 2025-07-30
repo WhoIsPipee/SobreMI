@@ -45,6 +45,11 @@ const projects = [
     link: "https://clima-api-k.netlify.app/",
   },
   {
+    title: "-🔎 ConoceTuCoctel 🍹-",
+    description: "ConoceTuCoctel se conecta con la API de TheCocktailDB para mostrarte una gran variedad de cócteles de todo tipo. Además, cuenta con una función de favoritos para que puedas guardar tus tragos preferidos y tenerlos siempre a mano.",
+    link: "https://conocetucoctel.netlify.app/",
+  },
+  {
     title: "-🧑‍💻 Excel VBA + Macros 👨‍👩‍👦‍👦-",
     description:
       "Plantilla con macros y VBA para gestionar residentes en condominios privados: agregar, modificar y eliminar registros de forma eficiente. (Plantilla local / SIN LINK)",
